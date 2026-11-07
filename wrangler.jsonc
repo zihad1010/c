@@ -1,7 +1,9 @@
 {
-  "name": "class-updates",
+  "name": "c",
   "main": "src/index.js",
-  "compatibility_date": "2026-10-28",
+  "compatibility_date": "2026-11-07",
+  "workers_dev": false,
+  "preview_urls": false,
   "assets": {
     "directory": "./public",
     "binding": "ASSETS",
@@ -17,7 +19,7 @@
   "secrets_store_secrets": [
     {
       "binding": "ADMIN_PASSWORD",
-      "store_id": "c2b9d6df9ee2438c9a3f0cdca1c21d88",
+      "store_id": "7c0b7f0eab284ceab48ec0f248e55a69",
       "secret_name": "ADMIN_PASSWORD"
     }
   ],
